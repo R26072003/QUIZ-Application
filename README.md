@@ -43,3 +43,4 @@ The application provides a smooth user experience with clear visual cues for int
 
         OUTPUT:
         
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d4d8c1ab-291e-4e74-861c-df57a3c1f675" />
